@@ -119,6 +119,7 @@ h5 {
 .container {
   width: 100%;
 }
+/*
 @media (min-width: 480px) {
   .container {
     width: 450px;
@@ -139,6 +140,7 @@ h5 {
     width: 1170px;
   }
 }
+*/
 
 .main-wrapper {
   background-color: #ffffff;
